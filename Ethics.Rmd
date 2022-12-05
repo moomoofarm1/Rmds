@@ -10,7 +10,7 @@ output:
     gallery: false
     highlight: tango
 ---
-[comment]:<>(V3 only contains two diagnostic surveys. The first is the 1stMini. The last is 1y_post_1stMini.)
+[comment]:<>(Some comments.)
 ```{r Setup, include = FALSE}
 knitr::opts_chunk$set(prompt = FALSE, comment = "", collapse = TRUE, echo = FALSE, warning = FALSE,error = FALSE, message = FALSE)
 
