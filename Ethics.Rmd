@@ -20,5 +20,17 @@ rm(list=ls())
 
 # Course 1. Dec.5th
 
+## Aims 
+Means 1: human subjects research
+Means 2: research integrity
+
 ## A group work
-The participant teaching session, 50min including 15min discussion.
+The participant teaching session, 50min presentation including 15min discussion.
+
+## A second group work, only on Thursday at the first week
+Ethics review exercise with someone in a different group from the first group work.
+
+## Ethics reflection
+One identified issue regarding one's own research. Before 16pm next Thursday, submit at least two reflections of others' submission.
+
+
