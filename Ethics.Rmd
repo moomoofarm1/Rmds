@@ -19,3 +19,6 @@ rm(list=ls())
 ```
 
 # Course 1. Dec.5th
+
+## A group work
+The participant teaching session, 50min including 15min discussion.
