@@ -1,0 +1,21 @@
+---
+title: 'EthicsNotes_course'
+author: "Alex Gu, via R v4.0"
+date: "Last modified `r format(Sys.time(), '%x')`"
+output:
+  rmdformats::readthedown:
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: false
+    highlight: tango
+---
+[comment]:<>(V3 only contains two diagnostic surveys. The first is the 1stMini. The last is 1y_post_1stMini.)
+```{r Setup, include = FALSE}
+knitr::opts_chunk$set(prompt = FALSE, comment = "", collapse = TRUE, echo = FALSE, warning = FALSE,error = FALSE, message = FALSE)
+
+rm(list=ls())
+
+```
+
+# Course 1. Dec.5th
