@@ -35,7 +35,7 @@ rm(list=ls())
 - Length: around 900 words
 
 ## Justify one's project
-- No justification of ethics;
-- instrumental value;
-- 
+- No justification (of ethics?);
+- (potential) instrumental value "impact": tangible, immediate; hard to predict; basic/foundational science value; 
+- intrinsic/final value: 
 
