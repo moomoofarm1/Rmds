@@ -1,6 +1,6 @@
 ---
 title: 'EthicsNotes_course'
-author: "Alex Gu, via R v4.0"
+author: "Alex Gu, via RMarkdown"
 date: "Last modified `r format(Sys.time(), '%x')`"
 output:
   rmdformats::readthedown:
