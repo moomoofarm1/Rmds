@@ -44,8 +44,11 @@ rm(list=ls())
 Human subjects research
 
 ## What's at stake
-Harm and burden;
-Violations of privacy;
-Instrumentalization, exploitation; Or using people as means for others' ends;
+- Harm and burden; from interview, survey, experiment, participant observation, analysis of personal data;
+- Violations of privacy;
+- Instrumentalization, exploitation; Or using people as means for others' ends;
 
 
+## The relevance of consent
+- Minize the risk;
+- Consent makes many research acceptable;
