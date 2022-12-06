@@ -43,5 +43,9 @@ rm(list=ls())
 # Course 2. Dec. 6th, 2022
 Human subjects research
 
-## 
+## What's at stake
+Harm and burden;
+Violations of privacy;
+Instrumentalization, exploitation; Or using people as means for others' ends;
+
 
