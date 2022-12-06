@@ -38,4 +38,10 @@ rm(list=ls())
 - No justification (of ethics?);
 - (potential) instrumental value "impact": tangible, immediate; hard to predict; basic/foundational science value; 
 - intrinsic/final value: 
+...
+
+# Course 2. Dec. 6th, 2022
+Human subjects research
+
+## 
 
