@@ -58,5 +58,6 @@ Guidelines, legislation and ethical review
 - GDPR
 - Convention on human rights and biomedicine
 - The Swedish Ethical Review Act
-- Personal data? Any info to be able to identify a natural person (a live one)
+- Personal data? Any info to be able to identify a natural person (a live one); Coded data if there is still a key is also personal data; 
+- pseudonymise (GDPR) is better; Avoid using the terms or explain what you mean by using these terms: anonymize ? De-identify? 
 - 
