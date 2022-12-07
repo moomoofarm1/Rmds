@@ -65,3 +65,5 @@ Guidelines, legislation and ethical review
 - Ethics is required: if involved sensitive personal data; or personal data regarding some sort of violation of regulations; physical intervention; an attempt to somehow influence the participant (physically or mentally; obivious risk that participants will be harmed phyisically or mentally; If anything of biological material that has been taken form a person and can be traced to that person;
 - The authority to do the ethical review: The Swedish Ethical Review Autority (EPM); Ethics Review Appeals Board will do some oversight on decided cases;
 - Research cannot start before it has been reviewed and approved.
+- No retroactive approval.
+- People violating provisions will be subjected to CRIMINAL liability.
