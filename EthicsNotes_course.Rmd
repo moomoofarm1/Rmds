@@ -62,5 +62,5 @@ Guidelines, legislation and ethical review
 - pseudonymise (GDPR) is better; Avoid using the terms or explain what you mean by using these terms: anonymize ? De-identify? 
 - sensitive personal data (GDPR) contain: race/ethnic, political opinion, religious, trade union membership, sex life and orientation, health, genetic inof, biometric info for unique identification of a person; If something does not fall into these categories, then it is not sensitive data.
 - GPS data is sometimes sensitive, showing you are coming to a church. In most situations, it should be personal data.
-- Ethics is required: if involved sensitive personal data; or personal data regarding some sort of violation of regulations; physical intervention; an attempt to somehow influence the participant (physically or mentally; obivious risk that participants will be harmed phyisically or mentally;
+- Ethics is required: if involved sensitive personal data; or personal data regarding some sort of violation of regulations; physical intervention; an attempt to somehow influence the participant (physically or mentally; obivious risk that participants will be harmed phyisically or mentally; If anything of biological material that has been taken form a person and can be traced to that person;
 - 
