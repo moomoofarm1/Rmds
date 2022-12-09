@@ -71,3 +71,8 @@ Guidelines, legislation and ethical review
 - For international collaborations, only that part is conducted in Sweden should be reviewed. Warning: The data collection abroad should not start before the Swedish Authority has agreed the Swedish part of the research.
 - Possible decisions: approval, or approval with conditions, or reject.
 - Case by case situation by the authority: in research merely involving the processing of (sensitive) personal data.
+
+
+# Course 4. Dec. 9th, 2022
+- LUSEC at lund university to store things, which is the most secure;
+- Distant access, need to pay a fee;
