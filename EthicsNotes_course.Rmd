@@ -33,6 +33,8 @@ rm(list=ls())
 ## Ethics reflection
 - One identified issue regarding one's own research. Before 16pm next Thursday, submit at least two reflections of others' submission.
 - Length: around 900 words
+- PULU, administrative system to report how we process the data here in the university, to the data protection agency; Filling out an online form;
+- 
 
 ## Justify one's project
 - No justification (of ethics?);
