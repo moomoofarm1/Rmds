@@ -76,9 +76,18 @@ Guidelines, legislation and ethical review
 
 
 # Course 4. Dec. 9th, 2022
+## Some general data infrastructure in the university
 - LUSEC at lund university to store things, which is the most secure; Distant access, need to pay a fee;
 - PULU, administrative service given by the university's data protection office, filling out an online form reporting what one would do to the data;
 - Check these out in CANVAS?
 - forskningsetik at lu.se ???
+## Consent 
+- To be explicit
 - To show voluntary: consent, opt-out
+- voluntary vs undue influence
+- Informed: info, which would be understood and what is actually understood: 
+  purpose/aim, what will happen (to me) with risks/burdens, contact info, benefits;
+  voluntary(including withdraw), why selected, protection of confidentiality (data storage etc.), dissemination of results,
+  expectations requrested (time etc.)
 - s
+
