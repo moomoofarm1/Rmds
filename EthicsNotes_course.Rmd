@@ -80,7 +80,8 @@ Guidelines, legislation and ethical review
 - LUSEC at lund university to store things, which is the most secure; Distant access, need to pay a fee;
 - PULU, administrative service given by the university's data protection office, filling out an online form reporting what one would do to the data;
 - Check these out in CANVAS?
-- forskningsetik at lu.se ???
+- [forskningsetik at lu.se](https://www.medarbetarwebben.lu.se/forska-och-utbilda/stod-till-forskning/forskningsetik-och-djurforsoksetik)
+  Research ethics and animal experimentation ethics office in the university
 ## Consent 
 - To be explicit
 - To show voluntary: consent, opt-out
