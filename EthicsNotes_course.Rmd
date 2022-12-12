@@ -94,5 +94,5 @@ Guidelines, legislation and ethical review
 # Course 5, Dec.12, 2022
 ## Allea code of conduct
 - [The link to the file](https://allea.org/code-of-conduct/)
-- 
+- Contact Christer Joensson for tricks implementing the Good Research Practice.
 
